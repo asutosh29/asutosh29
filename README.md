@@ -8,13 +8,14 @@
 I am a student from IIT Roorkee, carving my way into the Tech world!
 
 - 🔭 I’m currently working on my Web developement skills
-- 🌱 I’m currently learning Core ML
+- 🌱 I’m currently exploring NLP and development of LLMs
 - ⚡ Fun fact: I am sub 20 on 3x3 speedcube
 
 ## Skills
 1. C++
 2. Python (Flask)
 3. JS and nodeJS (currently learning)
+4. pytorch and Lightning AI
 
 ## Engagements
 1. Developer at SDSLabs
