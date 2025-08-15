@@ -14,8 +14,9 @@ I am a student from IIT Roorkee, carving my way into the Tech world!
 ## Skills
 1. C++
 2. Python (Flask)
-3. JS and nodeJS (currently learning)
+3. JS and nodeJS (ReactJS and Express)
 4. pytorch and Lightning AI
+5. Go (backend)
 
 ## Engagements
 1. Developer at SDSLabs
